@@ -43,6 +43,9 @@ In this project we outline the tools, language and libraries required to complet
 
 <br><br><br><br><br><br><br>
 
+#Loan Approval - Demo
+![](https://github.com/rajbondili/project4_Loan_approval_predictor/blob/main/static/loan_approval_prediction_status_demo.gif)
+
 
 # Categorical Columns of Dataset
 The analysis of the categorical columns of dataset are as follows:
@@ -58,12 +61,6 @@ The analysis of the categorical columns of dataset are as follows:
     > Loan Amount Term: Majority of the loans taken are for 360 Months (30 years). 
 
 <img width="531" alt="image" src=".\Images\Categorical_values.png">
-
-#Loan Approval - Demo
-
-![](https://github.com/rajbondili/project4_Loan_approval_predictor/blob/main/static/loan_approval_prediction_status_demo.gif)
-
-
 
 # Machine Learning Model
 The following are the machine learning model used to predict the loan appliaction whether it will be approved or rejected. All the models Accuracy and Classification Reports taken into consideration to use the best model to predict the loan application. So the RandomForestClassifier machine learning model has the highest accuracy of 87% with the average precision higher than 80% in predicting the application, this model is being used in the flask application as the back-end model to predict the applications.
