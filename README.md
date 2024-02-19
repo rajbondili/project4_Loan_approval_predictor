@@ -1,6 +1,6 @@
 # Loan Apporval Predictor
 
-<img width="531" alt="image" src="https://github.com/rajbondili/project4_Loan_approval_predictor/assets/142377615/5c2e8f68-cd32-49f1-bb77-4beb093a4df2">
+                              <img width="531" alt="image" src="https://github.com/rajbondili/project4_Loan_approval_predictor/assets/142377615/5c2e8f68-cd32-49f1-bb77-4beb093a4df2">
 
 
 # Overview
@@ -11,7 +11,37 @@ The statistical techniques are used to identify patterns and relationships withi
 # DataSource
 
 The dataset was in the CSV file format.
-<img width="341" alt="image" src="https://github.com/rajbondili/project4_Loan_approval_predictor/assets/142377615/f563a3fe-075d-4a50-81cb-bd72f3e74d63">
+| Column        	| Description   				|
+| ------------- 	| ------------- 				|
+| Loan          	| A unique id   				|
+| Gender           	| Male/female   				|
+| Married           | Yes/ No       				|
+| Dependents		| Applicant Dependents(1,2,3)	|
+| Education`````````| Graduate or not				|
+|Self_Employed		| yes/no						|
+|Applicant income 	| Applicant income				|
+|CoapplicantIncome  | Co-applicant income			|
+|LoanAmount			|Loan amount (in thousands)		|
+|Loan_Amount_Term	|Terms of loan (in months)		|
+|Credit_History		| Yes/No						|
+|Property_Area		|Rural/Urban/Semi-urban			|
+|Loan_Status		| Y- Yes, N-No 					|
+
+
+## 🧰 Libraries
+
+In this project we outline the tools, language and libraries required to complete the project brief.
+<br>
+
+<img align="left" alt="Git" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Python" width="80x" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Pandas" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Flask" width="80px" style="padding-right:12px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Jupyter" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+<br><br><br><br><br><br><br>
 
 
 # Categorical Columns of Dataset
