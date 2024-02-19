@@ -1,6 +1,6 @@
 # Loan Apporval Predictor
 
-                            <img width="641" alt="image" src="https://github.com/rajbondili/project4_Loan_approval_predictor/assets/142377615/b38fc08a-d1e5-41fd-9225-38273badf313">
+<img width="641" alt="image" src="https://github.com/rajbondili/project4_Loan_approval_predictor/assets/142377615/b38fc08a-d1e5-41fd-9225-38273badf313">
 
 
 # Overview
