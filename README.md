@@ -11,21 +11,21 @@ The statistical techniques are used to identify patterns and relationships withi
 # DataSource
 
 The dataset was in the CSV file format.
-| Column        	  | Description   				      |
-| ------------- 	  | ------------- 				      |
-| Loan          	  | A unique id   				      |
+| Column        	| Description   				      |
+| ------------- 	| ------------- 				      |
+| Loan          	| A unique id   				      |
 | Gender           	| Male/female   				      |
 | Married           | Yes/ No       				      |
-| Dependents		    | Applicant Dependents(1,2,3)	|
-| Education`````````| Graduate or not				      |
-|Self_Employed		  | yes/no						          |
-|Applicant income 	| Applicant income				    |
-|CoapplicantIncome  | Co-applicant income			    |
-|LoanAmount			    |Loan amount (in thousands)		|
-|Loan_Amount_Term	  |Terms of loan (in months)		|
-|Credit_History		  | Yes/No						          |
-|Property_Area		  |Rural/Urban/Semi-urban			  |
-|Loan_Status		    | Y- Yes, N-No 					      |
+| Dependents		| Applicant Dependents(1,2,3)	      |
+| Education         | Graduate or not				      |
+|Self_Employed		| yes/no						      |
+|Applicant income 	| Applicant income				      |
+|CoapplicantIncome  | Co-applicant income			      |
+|LoanAmount			| Loan amount (in thousands)		  |
+|Loan_Amount_Term	|Terms of loan (in months)		      |
+|Credit_History		| Yes/No						      |
+|Property_Area		|Rural/Urban/Semi-urban			      |
+|Loan_Status		| Y- Yes, N-No 					      |
 
 
 ## 🧰 Libraries
