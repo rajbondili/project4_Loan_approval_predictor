@@ -60,7 +60,8 @@ The analysis of the categorical columns of dataset are as follows:
 <img width="531" alt="image" src=".\Images\Categorical_values.png">
 
 #Loan Approval - Demo
-https://github.com/rajbondili/project4_Loan_approval_predictor/blob/main/static/loan_approval_prediction_status_demo.gif
+
+![](https://github.com/rajbondili/project4_Loan_approval_predictor/blob/main/static/loan_approval_prediction_status_demo.gif)
 
 
 
