@@ -27,7 +27,7 @@ def predict():
         ApplicantIncome = float(request.form['ApplicantIncome'])
         CoapplicantIncome = float(request.form['CoapplicantIncome'])
         LoanAmount = float(request.form['LoanAmount'])
-        Loan_Amount_Term = float(request.form['Loan_Amount_Term'])
+        LoanAmountTerm = float(request.form['LoanAmountTerm'])
 
         # gender
         if (gender == "Male"):
@@ -82,7 +82,7 @@ def predict():
         CoapplicantIncome = CoapplicantIncome
         LoanAmount = LoanAmount
         Credit_History = credit
-        Loan_Amount_Term = Loan_Amount_Term
+        LoanAmountTerm = LoanAmountTerm
         Self_Employed_Yes = employed_yes
         Property_Area_Semiurban = semiurban
         Property_Area_Urban = urban  
@@ -93,7 +93,7 @@ def predict():
 							ApplicantIncome,
 							CoapplicantIncome,
 							LoanAmount,
-							Loan_Amount_Term,
+							LoanAmountTerm,
 							Credit_History,
 							Gender_Male,
 							Married_yes,
